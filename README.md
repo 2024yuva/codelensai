@@ -1,8 +1,8 @@
-# 🔍 Code Lens AI
+# 🔍 Code-Sight
 
 > **Transform code complexity into visual intelligence**
 
-Code Lens AI is an advanced code analysis platform that leverages Google Gemini AI to provide multi-level code explanations with interactive, graph-based visualizations. From beginners learning their first algorithm to senior engineers optimizing production systems, Code Lens makes code complexity tangible and actionable.
+Code-Sight is an advanced code analysis platform that leverages Google Gemini AI to provide multi-level code explanations with interactive, graph-based visualizations. From beginners learning their first algorithm to senior engineers optimizing production systems, Code-Sight makes code complexity tangible and actionable.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19.2-61dafb.svg)](https://reactjs.org/)
@@ -52,8 +52,8 @@ Built with correctness in mind using formal verification:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/codelens-ai.git
-cd codelens-ai
+git clone https://github.com/2024yuva/codelensai.git
+cd codelensai
 
 # Install dependencies
 npm install
@@ -96,7 +96,7 @@ npm run preview
 
 ### Project Structure
 ```
-codelens-ai/
+codelensai/
 ├── .kiro/
 │   └── specs/                    # Feature specifications
 │       └── visual-intelligence-graphs/
@@ -153,7 +153,7 @@ console.log(analysis.performanceRisk.score);
 
 ## 🧪 Testing
 
-Code Lens AI uses a dual testing approach:
+Code-Sight uses a dual testing approach:
 
 ### Unit Tests
 Verify specific examples, edge cases, and error conditions:
@@ -280,16 +280,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: support@codelens.ai
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/codelens-ai/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/codelens-ai/discussions)
-- 📖 Documentation: [Wiki](https://github.com/yourusername/codelens-ai/wiki)
+- 📧 Email: support@code-sight.dev
+- 🐛 Issues: [GitHub Issues](https://github.com/2024yuva/codelensai/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/2024yuva/codelensai/discussions)
+- 📖 Documentation: [Wiki](https://github.com/2024yuva/codelensai/wiki)
 
 ---
 
 ## 🌟 Star History
 
-If you find Code Lens AI helpful, please consider giving it a star! ⭐
+If you find Code-Sight helpful, please consider giving it a star! ⭐
 
 ---
 
@@ -297,6 +297,6 @@ If you find Code Lens AI helpful, please consider giving it a star! ⭐
 
 **Built with ❤️ by developers, for developers**
 
-[Website](https://codelens.ai) • [Documentation](https://docs.codelens.ai) • [Blog](https://blog.codelens.ai)
+[Website](https://code-sight.dev) • [Documentation](https://docs.code-sight.dev) • [Blog](https://blog.code-sight.dev)
 
 </div>
