@@ -41,7 +41,7 @@ const App: React.FC = () => {
             <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
               <span className="text-white font-black text-xl">L</span>
             </div>
-            <h1 className="text-xl font-bold tracking-tight">CodeLens <span className="text-blue-500">AI</span></h1>
+            <h1 className="text-xl font-bold tracking-tight">Code<span className="text-blue-500">Sight</span></h1>
           </div>
           <div className="hidden sm:flex items-center gap-4 text-sm text-slate-400">
             <span>Analyze. Understand. Build.</span>
@@ -171,7 +171,7 @@ const App: React.FC = () => {
       </main>
 
       <footer className="max-w-7xl mx-auto px-4 py-12 border-t border-slate-900 text-center text-slate-600 text-sm">
-        <p>© 2024 CodeLens AI. Powered by Google Gemini.</p>
+        <p>© 2024 Code-Sight. Powered by Google Gemini.</p>
       </footer>
     </div>
   );
