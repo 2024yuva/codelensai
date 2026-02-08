@@ -219,10 +219,6 @@ fc.assert(
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
 ### Development Workflow
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -277,13 +273,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React** and **Vite** for the development experience
 
 ---
-
-## 📞 Support
-
-- 📧 Email: support@codelens.ai
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/codelens-ai/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/codelens-ai/discussions)
-- 📖 Documentation: [Wiki](https://github.com/yourusername/codelens-ai/wiki)
 
 ---
 
